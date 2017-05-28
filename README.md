@@ -11,4 +11,5 @@ It has installed all tools included in the *Ubuntu* version plus the following o
 | Ubuntu        | `17.04` |
 | Terminal      | `ZSH` |
 | Editors       | `nano` |
-| Web           | `curl` , `wget` |
+| Web           | `curl`, `wget` |
+| Networking    | `arp`, `hostname`, `ifconfig`, `netstat`, `rarp`, `route`, `plipconfig`, `slattach`, `mii-tool`, `iptunnel`, `ipmaddr` |
